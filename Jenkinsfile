@@ -1,2 +1,2 @@
-@Library('mvn-sharedlib') _
+@Library('mvn-sharedlib@master') _
 samplepipeline([:])
